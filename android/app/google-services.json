@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170999604269",
+    "project_id": "gapshap-b942f",
+    "storage_bucket": "gapshap-b942f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170999604269:android:575d7758a729a7bdaac4a4",
+        "android_client_info": {
+          "package_name": "com.example.gapshap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170999604269-ir9m6n1mks51eo9qagk6s1bi444u14kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gapshap",
+            "certificate_hash": "f6fcbbaa0b2f0effeb33f6ee24507116fdc7513c"
+          }
+        },
+        {
+          "client_id": "170999604269-c811onqfvfkosra8fev342o13cbgkjnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_0Z7J-FmMfwzGxJX6CsdLsFXoeMWqZos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170999604269-c811onqfvfkosra8fev342o13cbgkjnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
